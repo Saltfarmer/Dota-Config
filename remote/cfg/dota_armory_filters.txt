@@ -1,0 +1,18 @@
+"ArmoryFilters"
+{
+	"da"
+	{
+		"1"
+		{
+			"Field"		"Bundle"
+			"Op"		"="
+			"Value"		"1"
+		}
+		"2"
+		{
+			"Field"		"RarityBitfield"
+			"Op"		"="
+			"Value"		"1022"
+		}
+	}
+}

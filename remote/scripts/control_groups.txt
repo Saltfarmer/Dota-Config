@@ -1,0 +1,792 @@
+"ControlGroups"
+{
+	"npc_dota_hero_sven"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_sven"
+				"illusion"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_courier"
+				"unitlabel"		"courier"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_windrunner"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_windrunner"
+				"illusion"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_courier"
+				"unitlabel"		"courier"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_sniper"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_sniper"
+				"illusion"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_courier"
+				"unitlabel"		"courier"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_weaver"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_weaver"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_ember_spirit"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_ember_spirit"
+				"illusion"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_courier"
+				"unitlabel"		"courier"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_invoker"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_invoker"
+				"illusion"		"0"
+			}
+		}
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_invoker_forged_spirit"
+				"illusion"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_invoker"
+				"illusion"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_invoker_forged_spirit"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_slark"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_slark"
+				"illusion"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_courier"
+				"unitlabel"		"courier"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_sand_king"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_sand_king"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_dark_seer"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_dark_seer"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_dark_seer"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_winter_wyvern"
+				"illusion"		"1"
+				"unitindex"		"0"
+			}
+			"2"
+			{
+				"unitname"		"npc_dota_hero_dragon_knight"
+				"illusion"		"1"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_queenofpain"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_queenofpain"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_lone_druid"
+	{
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_lone_druid_bear1"
+				"unitlabel"		"spirit_bear"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_lone_druid"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_lone_druid_bear4"
+				"unitlabel"		"spirit_bear"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_lone_druid"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_lone_druid_bear1"
+				"unitlabel"		"spirit_bear"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_disruptor"
+	{
+		"7"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_disruptor"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_juggernaut"
+	{
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_juggernaut"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_juggernaut"
+				"illusion"		"1"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_meepo"
+	{
+		"5"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"1"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"2"
+			}
+		}
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"3"
+			}
+		}
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"1"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"2"
+			}
+		}
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"3"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"2"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"unitlabel"		"meepo"
+				"illusion"		"0"
+				"unitindex"		"1"
+			}
+		}
+	}
+	"npc_dota_hero_ogre_magi"
+	{
+		"7"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_ogre_magi"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_chen"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_neutral_centaur_khan"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_chen"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_neutral_centaur_khan"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"2"
+			{
+				"unitname"		"npc_dota_neutral_polar_furbolg_ursa_warrior"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_drow_ranger"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_drow_ranger"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"7"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_drow_ranger"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"8"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_drow_ranger"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_naga_siren"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_1"
+				"unitindex"		"0"
+			}
+			"2"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_2"
+				"unitindex"		"0"
+			}
+		}
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_1"
+				"unitindex"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_2"
+				"unitindex"		"0"
+			}
+		}
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"manta_1"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"manta_0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_nyx_assassin"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_nyx_assassin"
+				"illusion"		"1"
+				"illusionlabel"		"rune_0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_bounty_hunter"
+	{
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_bounty_hunter"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_abyssal_underlord"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_abyssal_underlord"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_lich"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_lich"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_witch_doctor"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_witch_doctor"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_night_stalker"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_skywrath_mage"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_skywrath_mage"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_templar_assassin"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_templar_assassin"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_techies"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_techies_remote_mine"
+				"unitlabel"		"techies_remotemines"
+				"illusion"		"0"
+				"unitindex"		"187"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_techies_remote_mine"
+				"unitlabel"		"techies_remotemines"
+				"illusion"		"0"
+				"unitindex"		"17"
+			}
+			"2"
+			{
+				"unitname"		"npc_dota_techies_remote_mine"
+				"unitlabel"		"techies_remotemines"
+				"illusion"		"0"
+				"unitindex"		"121"
+			}
+		}
+	}
+	"npc_dota_hero_shadow_demon"
+	{
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_shadow_demon"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_warlock"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_warlock"
+				"illusion"		"1"
+				"illusionlabel"		"rune_0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_treant"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_courier"
+				"unitlabel"		"courier"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_treant"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_bristleback"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_bristleback"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_bane"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_bane"
+				"illusion"		"1"
+				"illusionlabel"		"rune_0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_hoodwink"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_monkey_king"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_vengefulspirit"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_dawnbreaker"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_wisp"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_wisp"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_gyrocopter"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_lion"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_medusa"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_grimstroke"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_earth_spirit"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_rattletrap"
+	{
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_enigma"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+}

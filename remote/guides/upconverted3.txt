@@ -1,0 +1,7 @@
+"upconversionInfo"
+{
+	"upconverted"
+	{
+		"pudge_scratch.build"		"1"
+	}
+}

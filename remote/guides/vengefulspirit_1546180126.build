@@ -1,0 +1,145 @@
+"guidedata"
+{
+	"Hero"		"vengefulspirit"
+	"Title"		"Petani Garam"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.20e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/fQmUjGU]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"47"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005C28D662"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_courier"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_ward_observer"
+				"item"		"item_flask"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_ward_observer"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_infused_raindrop"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+			}
+			"Core Items (Support)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_glimmer_cape"
+				"item"		"item_tranquil_boots"
+			}
+			"Utility Items"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_dust"
+				"item"		"item_gem"
+				"item"		"item_smoke_of_deceit"
+			}
+			"Situational Items"
+			{
+				"item"		"item_ghost"
+				"item"		"item_ancient_janggo"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_lotus_orb"
+				"item"		"item_heavens_halberd"
+				"item"		"item_solar_crest"
+				"item"		"item_ultimate_scepter"
+			}
+			"Extension Items"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_aeon_disk"
+				"item"		"item_aether_lens"
+				"item"		"item_vladmir"
+				"item"		"item_travel_boots"
+				"item"		"item_hurricane_pike"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_pipe"		"Purchase if no other support is buying it."
+			"item_aether_lens"		"Aether Lens lets Vengeful Spirit use her ultimate, Magic Missile and Wave of Terror at an even larger range with amplified damage. This allows her to initiate even better or scout areas from an even safer distance without risk."
+			"item_force_staff"		"Surprise swaps would work especially well with this item. In addition, swapping then Force Staff your way back is a good way to have your cake and eat it too!"
+			"item_solar_crest"		"Solar Crest is the next logical step after Medallion of Courage that really synergizes with Vengeful Spirit's armour debuff. To add, it adds a miss effect that can be used for to allies for evasion or enemies.
+
+Solar Crest can be used both offensively and defensively."
+			"item_heavens_halberd"		"Heaven's Halberd is a comfortable item that adds to Vengeful Spirit's survivability and puts her ultimate in a less crisis of a situation."
+			"item_glimmer_cape"		"Glimmer Cape is an alternative utility item that can work alongside Force Staff to provide further escape after Swapping an enemy or simply to save an ally."
+			"item_ghost"		"Ghost Scepter is to help you versus physically carries that want to immediately target you. This prevents them from targeting you and let's you escape via Force Staff or other items that provide your escape."
+			"item_spirit_vessel"		"Spirit Vessel is a great end-game item versus especially tanky heroes or those with a lot of health."
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you."
+			"item_medallion_of_courage"		"Medallion of Courage works great alongside Vengeful Spirit's Wave of Terror for an early Roshan or ganks. Medallion of Courage can be used both offensively or defensively (improving an allies' armour). 
+
+Use Wave of Terror to scout out fogged areas or to break channeled consumables (Clarity/Bottle)"
+			"item_ultimate_scepter"		"Aghanim's allows you to cast abilities with your ghost form after you die in a fight."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"vengefulspirit_magic_missile"
+			"2"		"vengefulspirit_wave_of_terror"
+			"3"		"vengefulspirit_magic_missile"
+			"4"		"vengefulspirit_wave_of_terror"
+			"5"		"vengefulspirit_magic_missile"
+			"6"		"vengefulspirit_nether_swap"
+			"7"		"vengefulspirit_magic_missile"
+			"8"		"vengefulspirit_wave_of_terror"
+			"9"		"vengefulspirit_wave_of_terror"
+			"10"		"vengefulspirit_command_aura"
+			"11"		"vengefulspirit_command_aura"
+			"12"		"vengefulspirit_nether_swap"
+			"13"		"vengefulspirit_command_aura"
+			"14"		"vengefulspirit_command_aura"
+			"15"		"special_bonus_unique_vengeful_spirit_4"
+			"16"		"special_bonus_unique_vengeful_spirit_6"
+			"18"		"vengefulspirit_nether_swap"
+			"20"		"special_bonus_unique_vengeful_spirit_2"
+			"25"		"special_bonus_unique_vengeful_spirit_1"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_all_stats_8"		"The extra stats has more applicability throughout the game and as a support/utility hero like Vengeful Spirit to alleviate some mana issues, survivability and damage output as Vengeful Spirit's auto-attack is pretty decent."
+			"vengefulspirit_magic_missile"		"Magic Missile during the early-phase of the game helps you initiate onto enemies with a guaranteed stun.
+
+Later on, this will be your follow-up with your ultimate ability: Nether Swap, which will hold enemies in place after you swap them towards your allies' locations."
+			"vengefulspirit_wave_of_terror"		"Wave of Terror should not be used in the lane phase otherwise you may push the lane too hard. Consider using it to illuminate areas you can't see, to weaken enemy heroes, etc.
+
+Use your ability to easily stack camps, disrupt Clarity and Healing Salves."
+			"vengefulspirit_nether_swap"		"Nether Swap an ally or an enemy to ensure ideal positioning or to save an ally:
+
+1. Target an enemy with Nether Swap
+2. Follow-up with Magic Missile
+3. Simultaneously use Glimmer Cape or Force Staff to retreat back
+4. Wave of Terror as your allies kill the foe"
+			"special_bonus_unique_vengeful_spirit_2"		"The piercing Magic Missile is especially good if your team lacks the necessary stuns or your core target specifically purchased Black King Bar.
+
+Otherwise, the Vengeance Aura has a more versatile use, guaranteed for your team."
+			"special_bonus_unique_vengeful_spirit_3"		"The piercing Magic Missile is especially good if your team lacks the necessary stuns or your core target specifically purchased Black King Bar.
+
+Otherwise, the Vengeance Aura has a more versatile use, guaranteed for your team."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}

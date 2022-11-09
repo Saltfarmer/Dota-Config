@@ -1,0 +1,147 @@
+"guidedata"
+{
+	"Hero"		"dark_willow"
+	"Title"		"Petani Garam"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.28b"
+	"Overview"		""
+	"GuideRevision"		"96"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000600AC5EC"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_courier"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_observer"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_flask"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_infused_raindrop"
+				"item"		"item_magic_wand"
+			}
+			"Core Items (support)"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_cyclone"
+				"item"		"item_blink"
+			}
+			"utility items"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_dust"
+				"item"		"item_smoke_of_deceit"
+			}
+			"situational  Items"
+			{
+				"item"		"item_ghost"
+				"item"		"item_aether_lens"
+				"item"		"item_glimmer_cape"
+				"item"		"item_spirit_vessel"
+				"item"		"item_veil_of_discord"
+				"item"		"item_lotus_orb"
+			}
+			"extension items"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_aeon_disk"
+				"item"		"item_travel_boots"
+				"item"		"item_guardian_greaves"
+				"item"		"item_sheepstick"
+				"item"		"item_black_king_bar"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_veil_of_discord"		"All your abilities are magic-damaging, making Veil of Discord an incredible addition to your arsenal.
+
+Cast this before unleashing your magic abilities."
+			"item_blink"		"Initiate with Blink Dagger to ensure enemies get stunned and take your full-damage:
+
+1. Blink onto a target
+2. Cast Cursed Crown
+(3. If you have Eul's/Atos, cast immediately after)
+4. Shadow Realm to prepare your nuke damage
+5. As they get stunned from C. Crown, use Bedlam and attack with maxed Shadow Realm
+6. Finish with a proper Bramble Maze"
+			"item_cyclone"		"Initiate with Eul's Scepter of Divinity and Cursed Crown to ensure enemies get stunned and take your full-damage:
+
+1. Cast Cursed Crown on a target
+2. If you have Eul's/Atos, cast immediately after
+4. Shadow Realm to prepare your nuke damage
+5. As they get stunned from C. Crown, use Bedlam and attack with maxed Shadow Realm
+6. Finish with a proper Bramble Maze"
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you."
+			"item_force_staff"		"If targeted, distance or reposition yourself with Force Staff. Your abilities are best used in range so keeping a distance versus melee heroes is important."
+			"item_aether_lens"		"Aether Lens allows you to cast all your abilities even further. Be wary that means Bedlam won't be as valuable since you are so far away but your other abilities casted from afar will be a great use to your team."
+			"item_rod_of_atos"		"Initiate with Rod of Atos and Cursed Crown to ensure enemies get stunned and take your full-damage:
+
+1. Cast Cursed Crown on a target
+2. If you have Eul's/Atos, cast immediately after
+4. Shadow Realm to prepare your nuke damage
+5. As they get stunned from C. Crown, use Bedlam and attack with maxed Shadow Realm
+6. Finish with a proper Bramble Maze"
+			"item_glimmer_cape"		"Glimmer Cape is your way of deviating attention from you to someone else as you are very frail but needed in fights. "
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dark_willow_bramble_maze"
+			"2"		"dark_willow_shadow_realm"
+			"3"		"dark_willow_cursed_crown"
+			"4"		"dark_willow_bramble_maze"
+			"5"		"dark_willow_bramble_maze"
+			"6"		"dark_willow_bedlam"
+			"7"		"dark_willow_bramble_maze"
+			"8"		"dark_willow_shadow_realm"
+			"9"		"dark_willow_shadow_realm"
+			"10"		"special_bonus_unique_dark_willow_6"
+			"11"		"dark_willow_shadow_realm"
+			"12"		"dark_willow_bedlam"
+			"13"		"dark_willow_cursed_crown"
+			"14"		"dark_willow_cursed_crown"
+			"15"		"dark_willow_cursed_crown"
+			"18"		"dark_willow_bedlam"
+			"20"		"special_bonus_cast_range_125"
+			"25"		"special_bonus_unique_dark_willow_3"
+		}
+		"AbilityTooltips"
+		{
+			"dark_willow_bramble_maze"		"Use Bramble Maze to block paths, catch enemies where they're going and threaten enemy defensive positionings.
+
+Doesn't interrupt channeling abilities.
+Doesn't provide Truesight but it does root/damage invisibile units."
+			"dark_willow_shadow_realm"		"Shadow Realm does not make you invisible, foes just can't target you with physical or direct spells. AOE damage-sources still affect you.
+
+Use Shadow Realm to harass lanes, finish off an enemy from afar or to position yourself safely as your team engages. 
+
+Use Shadow Realm with your Town Portal Scroll to narrowly escape bad situations.
+
+Does not work on structures."
+			"dark_willow_cursed_crown"		"After a delay, Cursed Crown stuns both the target and the area around them. If the target goes invulnerable, the AOE still stuns around the invulerable target (just not the target).
+
+Combines very well with Bramble Maze, Rod of Atos and Eul's Scepter of Divinity to ensure the target cannot flee too far until the spell stuns."
+			"dark_willow_terrorize"		"Use Terrorize to disperse enemy ganks on allies or to prevent high-ground pushes.
+
+It's also a great way to initiate as your allies can then follow-up when your enemies are forced to flee."
+		}
+	}
+}

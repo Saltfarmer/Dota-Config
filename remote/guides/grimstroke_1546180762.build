@@ -1,0 +1,118 @@
+"guidedata"
+{
+	"Hero"		"grimstroke"
+	"Title"		"Petani Garam"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.20e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/fQmUjGU]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"33"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005C28D89A"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items"
+			{
+				"item"		"item_courier"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_ward_observer"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_magic_wand"
+				"item"		"item_infused_raindrop"
+				"item"		"item_flask"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+			}
+			"Core Items (support)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_blink"
+				"item"		"item_force_staff"
+			}
+			"utiliy items"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_dust"
+				"item"		"item_smoke_of_deceit"
+			}
+			"situational Items"
+			{
+				"item"		"item_ghost"
+				"item"		"item_glimmer_cape"
+				"item"		"item_aether_lens"
+				"item"		"item_tranquil_boots"
+				"item"		"item_spirit_vessel"
+				"item"		"item_aeon_disk"
+				"item"		"item_veil_of_discord"
+				"item"		"item_kaya"
+				"item"		"item_solar_crest"
+			}
+			"extension items"
+			{
+				"item"		"item_cyclone"
+				"item"		"item_guardian_greaves"
+				"item"		"item_rod_of_atos"
+				"item"		"item_heavens_halberd"
+				"item"		"item_sheepstick"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"grimstroke_spirit_walk"
+			"2"		"grimstroke_ink_creature"
+			"3"		"grimstroke_dark_artistry"
+			"4"		"grimstroke_ink_creature"
+			"5"		"grimstroke_ink_creature"
+			"6"		"grimstroke_soul_chain"
+			"7"		"grimstroke_ink_creature"
+			"8"		"grimstroke_dark_artistry"
+			"9"		"grimstroke_dark_artistry"
+			"10"		"special_bonus_gold_income_15"
+			"11"		"grimstroke_dark_artistry"
+			"12"		"grimstroke_soul_chain"
+			"13"		"grimstroke_spirit_walk"
+			"14"		"grimstroke_spirit_walk"
+			"15"		"special_bonus_cast_range_125"
+			"16"		"grimstroke_spirit_walk"
+			"18"		"grimstroke_soul_chain"
+			"20"		"special_bonus_unique_grimstroke_4"
+			"25"		"special_bonus_unique_grimstroke_1"
+		}
+		"AbilityTooltips"
+		{
+			"grimstroke_soul_chain"		"Soulbind works like magnetics, if you cast it on someone even if they're not near anyone yet, once they are - Soulbind will link the two enemies together.
+
+Follow-up with Phantom's Embrace or other crowd-control items/abilities to pin down almost half the enemy team."
+			"grimstroke_spirit_walk"		"Try and use Ink Swell to help an ally catch up to an enemy, to invade for 0:00 runes or to help them escape if necessary.
+
+Additionally you can use Ink Swell during the laning phase of the game to harass your enemies without being targeted/attacked."
+			"grimstroke_dark_artistry"		"Rely on Stroke of Fate to continually engage in team-fights without putting yourself in inherent danger. 
+
+Ink Swell has an incredible range and great damage for a low cooldown."
+			"grimstroke_ink_creature"		"Phantom's Embrace works well with Soul Bind as well as Ink Swell. Engage a foe with Ink Swell and follow-up with Phantom's Embrace so they cannot use any abilities to escape - guaranteeing your Ink Swell stun lands."
+		}
+	}
+}

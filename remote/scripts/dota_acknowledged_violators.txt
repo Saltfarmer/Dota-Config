@@ -1,0 +1,18 @@
+"AcknowledgedViolators"
+{
+	"armory_button_violator"		"1"
+	"store_tab_violator"		"1"
+	"per_hero_stats_violator"		"1"
+	"winter_2016_predictions_added"		"1"
+	"profile_hero_stats_violator"		"1"
+	"store_browse_violator"		"1"
+	"store_browse_new_tab"		"1"
+	"notifications_button_violator"		"1"
+	"learn_items_violator"		"1"
+	"learn_items_secondary_violator"		"1"
+	"trainer_secondary_violator"		"1"
+	"trainer_violator"		"1"
+	"turbo_added"		"1"
+	"guilds_violator"		"1"
+	"sticker_violator"		"1"
+}
